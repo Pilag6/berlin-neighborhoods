@@ -1,3 +1,5 @@
+<img src="/client/src/assets/berlin.jpg" />
+
 # React Vite Clean Template
 
 This template provides a minimal setup to get React working in Vite, completely clean, without any extra noise. It's configured to use `pnpm` as the package manager for managing dependencies.

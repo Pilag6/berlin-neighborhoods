@@ -1,3 +1,5 @@
+<img src="/client/src/assets/berlin.jpg" />
+
 # From Struggling with Berlin's Neighborhoods to Building an Interactive Map App
 
 Four years ago, I moved to Berlin, a city rich with history, culture, and vibrant neighborhoods. As much as I love living here, I have to admit that learning and remembering the names and locations of all the neighborhoods has been quite a challenge. Determined to get a better grasp of my surroundings, I decided to turn this challenge into an opportunity to combine my love for coding with my need to navigate Berlin more effectively.
